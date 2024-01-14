@@ -19,4 +19,3 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 - Breast_Cancer_classification.ipynb - the main jupyter notebook
 - DT_framework.py - decision tree and ensemble framework (as written in https://github.com/shashwatgupta42/tree_ensemble_framework)
 - NN_Framework.py - feed forward neural net framework (as written in https://github.com/shashwatgupta42/neural_net)
-- datasets - folder containing the dataset
