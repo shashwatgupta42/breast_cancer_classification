@@ -1,5 +1,5 @@
 # Breast Cancer Classification
-In this project, I have used the following classification techniques for heart disease classification -
+In this project, I have used the following classification techniques for breast cancer classification -
 1) Linear Regression
 2) Artificial Neural Networks
 3) Decision Tree Classifier
